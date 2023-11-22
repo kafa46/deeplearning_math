@@ -12,15 +12,15 @@
 
 |분야|주제|Youtube|Codes|PPT|
 |---|---|---|---|---|
-|확률|Random Variables (확률변수)... 이게 뭔가요?|[click](https://youtu.be/iTxTGBOhzCA)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/%5BProbability%5D_01.%20random%20variables.pdf)|
-|확률|Expected Value (기댓값)... 이게 뭔가요?|[click](https://youtu.be/nvHyIScyQxs)|없음|[link](./01_probability_theory/[Probability]_02.%20expected_value.pdf)|
-|확률|딥러닝과 확률 분포의 관계는 무엇인가요?|[click](https://youtu.be/qpbIKg21mvI)|없음|[link]()|
-|확률|파라미터와 딥러닝|[click](https://youtu.be/PobNLp279-w)|없음|[link]()|
-|확률|odds, logit, sigmoid, and softmax 개념설명|[click](https://youtu.be/V0uyiu6X4Zs)|없음|[link]()|
-|확률|샘플링 표현에 대한 이해와 몬테 카를로 근사|[click](https://youtu.be/nw_tVBCw0Z8)|없음|[link]()|
-|확률|Stochastic Approach (확률적 접근법)|[click](https://youtu.be/LBT41oKsHWg)|없음|[link]()|
-|확률|Stochastic 실습 및 분석|[click](https://youtu.be/k6xog4ZNnT0)|[codes]()|[link]()|
-|확률|제발 Stochastic Process가 뭔지 설명 좀 해주세요!|[click](https://youtu.be/HtJ-q8tc5qQ)|없음|[link]()|
-|확률|Stochastic Gradient Descent에 왜 "Stochastic"라는 단어가 붙은 건가?|[click](https://youtu.be/DEQhCJ0nav4)|없음|[link]()|
-|집합|$R_{2,3}$ vs. $R^{2\times3}$ 차이가 도대체 뭐야?|[click]()|없음|[link]()|
+|확률|Random Variables (확률변수)... 이게 뭔가요?|[click](https://youtu.be/iTxTGBOhzCA)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/01_random_variables.pdf)|
+|확률|Expected Value (기댓값)... 이게 뭔가요?|[click](https://youtu.be/nvHyIScyQxs)|없음|[link](01_probability_theory/02. expected_value.pdf)|
+|확률|딥러닝과 확률 분포의 관계는 무엇인가요?|[click](https://youtu.be/qpbIKg21mvI)|없음|[link](01_probability_theory/03_probability_distribution_and_deeplearning.pdf)|
+|확률|파라미터와 딥러닝|[click](https://youtu.be/PobNLp279-w)|없음|[link](01_probability_theory/04_parameters_in_deep_learning.pdf)|
+|확률|odds, logit, sigmoid, and softmax 개념설명|[click](https://youtu.be/V0uyiu6X4Zs)|없음|[link](01_probability_theory/05_odds_logit_sigmoid_and_softmax.pdf)|
+|확률|샘플링 표현에 대한 이해와 몬테 카를로 근사|[click](https://youtu.be/nw_tVBCw0Z8)|없음|[link](01_probability_theory/06_sampling_representation_and_monte_carlo_approximation.pdf)|
+|확률|Stochastic Approach (확률적 접근법)|[click](https://youtu.be/LBT41oKsHWg)|없음|[link](01_probability_theory/07_stochastic.pdf)|
+|확률|Stochastic 실습 및 분석|[click](https://youtu.be/k6xog4ZNnT0)|[codes](01_probability_theory/07_stochastic.py)|[link](01_probability_theory/07_stochastic.pdf)|
+|확률|제발 Stochastic Process가 뭔지 설명 좀 해주세요!|[click](https://youtu.be/HtJ-q8tc5qQ)|없음|[link](01_probability_theory/07_stochastic.pdf)|
+|확률|Stochastic Gradient Descent에 왜 "Stochastic"라는 단어가 붙은 건가?|[click](https://youtu.be/DEQhCJ0nav4)|없음|[link](01_probability_theory/07_stochastic.pdf)|
+|집합|$R_{2,3}$ vs. $R^{2\times3}$ 차이가 도대체 뭐야?|[click](https://youtu.be/m7dSzu-G_Mk)|없음|[link](02_set_theory/01_intepretation_of_number set.pdf)|
 
