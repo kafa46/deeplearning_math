@@ -22,5 +22,6 @@
 |확률|Stochastic 실습 및 분석|[click](https://youtu.be/k6xog4ZNnT0)|[codes](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/07_stochastic.py)|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/07_stochastic.pdf)|
 |확률|제발 Stochastic Process가 뭔지 설명 좀 해주세요!|[click](https://youtu.be/HtJ-q8tc5qQ)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/07_stochastic.pdf)|
 |확률|Stochastic Gradient Descent에 왜 "Stochastic"라는 단어가 붙은 건가?|[click](https://youtu.be/DEQhCJ0nav4)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/07_stochastic.pdf)|
+|확률|Bayesian vs. Frequentist|[click](https://youtu.be/Kmw1pCsAqfM)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/08_01_Bayesian_vs_frequentist.pdf)|
 |집합|$R_{2,3}$ vs. $R^{2\times3}$ 차이가 도대체 뭐야?|[click](https://youtu.be/m7dSzu-G_Mk)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_set_theory/01_intepretation_of_number%20set.pdf)|
 
