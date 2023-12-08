@@ -29,4 +29,5 @@
 |확률|Maximum Likelihood Estimation (MLE) 완벽히 파헤치기 (deep dive)!|[click](https://youtu.be/vzNRLY_hLlM)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/09_Maximum_Likelihood_Estimation_(MLE).pdf)|
 |확률|Maximum A Posterior (MAP) 완벽히 파헤치기 (deep dive)!|[click](https://youtu.be/H342QehYSqo)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/10_Maximum_A_Posterior_(MAP).pdf)|
 |확률|Bayesian Neural Networks 깊은 이해 (Bayesian Inference)|[click](https://youtu.be/126JfX_kJTU)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/11_bayesian_neural_networks.pdf)|
-|집합|$R_{2,3}$ vs. $R^{2\times3}$ 차이가 도대체 뭐야?|[click](https://youtu.be/m7dSzu-G_Mk)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_set_theory/01_intepretation_of_number%20set.pdf)|
+|선형대수|딥러닝에서의 선형대수! 오리엔테이션 (동기부여)|[click](https://youtu.be/Si2QxZEz8Po)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/01_oriendtation_and_motivations.pdf)|
+|집합|$R_{2,3}$ vs. $R^{2\times3}$ 차이가 도대체 뭐야?|[click](https://youtu.be/m7dSzu-G_Mk)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_set_theory/01_intepretation_of_number%20set.pdf)|
