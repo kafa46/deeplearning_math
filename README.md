@@ -29,6 +29,8 @@
 |확률|Maximum Likelihood Estimation (MLE) 완벽히 파헤치기 (deep dive)!|[click](https://youtu.be/vzNRLY_hLlM)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/09_Maximum_Likelihood_Estimation_(MLE).pdf)|
 |확률|Maximum A Posterior (MAP) 완벽히 파헤치기 (deep dive)!|[click](https://youtu.be/H342QehYSqo)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/10_Maximum_A_Posterior_(MAP).pdf)|
 |확률|Bayesian Neural Networks 깊은 이해 (Bayesian Inference)|[click](https://youtu.be/126JfX_kJTU)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/11_bayesian_neural_networks.pdf)|
-|선형대수|딥러닝에서의 선형대수! 오리엔테이션 (동기부여)|[click](https://youtu.be/Si2QxZEz8Po)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/01_orientation_and_motivations.pdf)|
-|선형대수|Matrix(행렬) 역사, 정의,  표기법, 용어 정리|[click](https://youtu.be/ToWPEh1neCY)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/02_intro_definition_notation.pdf)|
+|선형대수|01. 딥러닝에서의 선형대수! 오리엔테이션 (동기부여)|[click](https://youtu.be/Si2QxZEz8Po)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/01_orientation_and_motivations.pdf)|
+|선형대수|02. Matrix(행렬) 역사, 정의,  표기법, 용어 정리|[click](https://youtu.be/ToWPEh1neCY)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/02_intro_definition_notation.pdf)|
+|선형대수|03. Matrix(행렬) 기본연산(행렬의 덧셈과 곱셈), 가우스-조던 소거법|[click](https://youtu.be/hj3PBuvW5TA)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/03_matrix_operation.pdf)|
+|선형대수|04. Determinant(행렬식), Inverse Matrix(역행렬) 깊게 이해하기|[click](https://youtu.be/rfeEx1saFVE)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/04_determinant_and_inverse_matrix.pdf)|
 |집합|$R_{2,3}$ vs. $R^{2\times3}$ 차이가 도대체 뭐야?|[click](https://youtu.be/m7dSzu-G_Mk)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_set_theory/01_intepretation_of_number%20set.pdf)|
