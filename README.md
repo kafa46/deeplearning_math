@@ -33,4 +33,5 @@
 |선형대수|02. Matrix(행렬) 역사, 정의,  표기법, 용어 정리|[click](https://youtu.be/ToWPEh1neCY)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/02_intro_definition_notation.pdf)|
 |선형대수|03. Matrix(행렬) 기본연산(행렬의 덧셈과 곱셈), 가우스-조던 소거법|[click](https://youtu.be/hj3PBuvW5TA)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/03_matrix_operation.pdf)|
 |선형대수|04. Determinant(행렬식), Inverse Matrix(역행렬) 깊게 이해하기|[click](https://youtu.be/rfeEx1saFVE)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/04_determinant_and_inverse_matrix.pdf)|
+|선형대수|05. 벡터 소개 (역사, 정의 및 표현법, 종류, 기저, Norm)|[click](https://youtu.be/MKzejgqrW6Q)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/05_vector_introduction.pdf)|
 |집합|$R_{2,3}$ vs. $R^{2\times3}$ 차이가 도대체 뭐야?|[click](https://youtu.be/m7dSzu-G_Mk)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_set_theory/01_intepretation_of_number%20set.pdf)|
