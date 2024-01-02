@@ -36,4 +36,15 @@
 |선형대수|05. 벡터 소개 (역사, 정의 및 표현법, 종류, 기저, Norm)|[click](https://youtu.be/MKzejgqrW6Q)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/05_vector_introduction.pdf)|
 |선형대수|06. 벡터의 덧셈/뺄셈, 스칼라배|[click](https://youtu.be/S4B4CKURlEs)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/06_vector_addtion_scalar_mulitplication.pdf)|
 |선형대수|07. 벡터의 곱셈 (내적, Cosine Similarity, Cross곱)|[click](https://youtu.be/VophYxpve0k)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/07_vector_product.pdf)|
+|선형대수|08. 벡터 공간 (vector space) 및  부분 공간 (vector subspace)|[click](https://youtu.be/6EjSnqXGwHQ)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/08_vector_vector_space.pdf)|
+|선형대수|09. 선형결합(linear combination) 및 생성(span)|준비중|없음|[준비중]()|
+|선형대수|10. 벡터와 행렬의 만남, 선형변환(liear transformation)|준비중|없음|[준비중]()|
+|선형대수|11. 행렬을 이용한 선형변환|준비중|없음|[준비중]()|
+|선형대수|12. 행렬과 행렬을 곱한다는 의미 (선형변환의 합성)|준비중|없음|[준비중]()|
+|선형대수|13. 그림으로 이해하는 행렬식(determinant)|준비중|없음|[준비중]()|
+|선형대수|14. 벡터에서 텐서로 - 텐서의 깊은 이해|준비중|없음|[준비중]()|
+|선형대수|15. 선형 공간 해석(linear empathy)|준비중|없음|[준비중]()|
+|선형대수|16. 고윳값(eigenvalue), 고유벡터(eigenvector)|준비중|없음|[준비중]()|
+|선형대수|17. 차원 압축 및 팽창|준비중|없음|[준비중]()|
+|선형대수|18. 선형대수 마무리 인사 (adjourning)|준비중|없음|[준비중]()|
 |집합|$R_{2,3}$ vs. $R^{2\times3}$ 차이가 도대체 뭐야?|[click](https://youtu.be/m7dSzu-G_Mk)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_set_theory/01_intepretation_of_number%20set.pdf)|
