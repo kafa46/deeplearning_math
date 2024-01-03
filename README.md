@@ -38,7 +38,7 @@
 |선형대수|07. 벡터의 곱셈 (내적, Cosine Similarity, Cross곱)|[click](https://youtu.be/VophYxpve0k)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/07_vector_product.pdf)|
 |선형대수|08. 벡터 공간 (vector space) 및  부분 공간 (vector subspace)|[click](https://youtu.be/6EjSnqXGwHQ)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/08_vector_vector_space.pdf)|
 |선형대수|09. 선형결합(linear combination) 및 생성(span)|[click](https://youtu.be/HTXay7LuSlY)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/09_vector_linear_combination_and_span.pdf)|
-|선형대수|10. 벡터와 행렬의 만남, 선형변환(liear transformation)|준비중|없음|[준비중]()|
+|선형대수|10. 선형변환(liear transformation), 벡터와 행렬의 만남|[click](https://youtu.be/dlFRj45ckXE)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/10_vector_join_vector_and_matrix_linear_transformation.pdf)|
 |선형대수|11. 행렬을 이용한 선형변환|준비중|없음|[준비중]()|
 |선형대수|12. 행렬과 행렬을 곱한다는 의미 (선형변환의 합성)|준비중|없음|[준비중]()|
 |선형대수|13. 그림으로 이해하는 행렬식(determinant)|준비중|없음|[준비중]()|
