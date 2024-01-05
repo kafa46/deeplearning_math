@@ -42,7 +42,7 @@
 |선형대수|11. 행렬을 이용한 선형변환|[click](https://youtu.be/1E02Md0o-Vc)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/11_vector_transformation_with_matrix.pdf)|
 |선형대수|12. 행렬과 행렬을 곱한다는 의미 (선형변환의 합성)|[click](https://youtu.be/EXMWzuZHbfo)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/12_vector_matrix_composition.pdf)|
 |선형대수|13. 그림으로 이해하는 행렬식(determinant)|[click](https://youtu.be/6qdZygiry_E)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/13_vector_determinant_with_figures.pdf)|
-|선형대수|14. 벡터에서 텐서로 - 텐서의 깊은 이해|[click](https://youtu.be/pPIFauuiwEU)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/14_from_vector_to_tensor)|
+|선형대수|14. 벡터에서 텐서로 - 텐서의 깊은 이해|[click](https://youtu.be/pPIFauuiwEU)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/14_from_vector_to_tensor.pdf)|
 |선형대수|15. 선형 공간 해석(linear empathy)|준비중|없음|[준비중]()|
 |선형대수|16. 고윳값(eigenvalue), 고유벡터(eigenvector)|준비중|없음|[준비중]()|
 |선형대수|17. 차원 압축 및 팽창|준비중|없음|[준비중]()|
