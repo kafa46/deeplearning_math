@@ -48,5 +48,5 @@
 |선형대수|17. 차원 축소 및 확장 (dimension reduction & expansion)|[click](https://youtu.be/uAVlPBC8TGE)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/17_dimension_reduction_expansion.pdf)|
 |선형대수|18. 행렬에서의 랭크 (rank in matrix)|[click](https://youtu.be/ORSP-Rd2NcU)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/18_rank_in_matrix.pdf)|
 |선형대수|19. 선형변환 요약, 정보 압축 및 팽창|[click](https://youtu.be/2vgpAgsqSEc)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/19_information_compression_expansion.pdf)|
-|선형대수|20. 선형대수를 마무리하며, 인사말 및 감사인사 (adjourning)|[click](https://youtu.be/3uDd-xaipoU)|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/20_adjourning.pdf)|
+|선형대수|20. 선형대수를 마무리하며, 인사말 및 감사인사 (adjourning)|[click](https://youtu.be/3uDd-xaipoU)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/20_adjourning.pdf)|
 |집합|$R_{2,3}$ vs. $R^{2\times3}$ 차이가 도대체 뭐야?|[click](https://youtu.be/m7dSzu-G_Mk)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_set_theory/01_intepretation_of_number%20set.pdf)|
