@@ -45,6 +45,6 @@
 |선형대수|14. 벡터에서 텐서로 - 텐서의 깊은 이해|[click](https://youtu.be/pPIFauuiwEU)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/14_from_vector_to_tensor.pdf)|
 |선형대수|15. 선형 시스템(공간)간의 해석(linear empathy)|[click](https://youtu.be/JQ1k8axkbFY)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/15_linear_empathy.pdf)|
 |선형대수|16. 고윳값(eigenvalue)과 고유벡터(eigenvector) 이해하기|[click](https://youtu.be/FDEIHuBanwM)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/16_eigenvector_eigenvalue.pdf)|
-|선형대수|17. 차원 압축 및 팽창|준비중|없음|[준비중]()|
+|선형대수|17. 차원 축소 및 확장 (dimension reduction & expansion)|[click](https://youtu.be/uAVlPBC8TGE)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/17_dimension_reduction_expansion.pdf)|
 |선형대수|18. 선형대수 마무리 인사 (adjourning)|준비중|없음|[준비중]()|
 |집합|$R_{2,3}$ vs. $R^{2\times3}$ 차이가 도대체 뭐야?|[click](https://youtu.be/m7dSzu-G_Mk)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_set_theory/01_intepretation_of_number%20set.pdf)|
