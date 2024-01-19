@@ -20,23 +20,23 @@
 
 |분야|주제|Youtube|Codes|PPT|
 |---|---|---|---|---|
-|확률|Random Variables (확률변수)... 이게 뭔가요?|[click](https://youtu.be/iTxTGBOhzCA)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/01_random_variables.pdf)|
-|확률|Expected Value (기댓값)... 이게 뭔가요?|[click](https://youtu.be/nvHyIScyQxs)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/02.%20expected_value.pdf)|
-|확률|딥러닝과 확률 분포의 관계는 무엇인가요?|[click](https://youtu.be/qpbIKg21mvI)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/03_probability_distribution_and_deeplearning.pdf)|
-|확률|파라미터와 딥러닝|[click](https://youtu.be/PobNLp279-w)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/04_parameters_in_deep_learning.pdf)|
-|확률|odds, logit, sigmoid, and softmax 개념설명|[click](https://youtu.be/V0uyiu6X4Zs)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/05_odds_logit_sigmoid_and_softmax.pdf)|
-|확률|샘플링 표현에 대한 이해와 몬테 카를로 근사|[click](https://youtu.be/nw_tVBCw0Z8)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/06_sampling_representation_and_monte_carlo_approximation.pdf)|
-|확률|Stochastic Approach (확률적 접근법)|[click](https://youtu.be/LBT41oKsHWg)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/07_stochastic.pdf)|
-|확률|Stochastic 실습 및 분석|[click](https://youtu.be/k6xog4ZNnT0)|[codes](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/07_stochastic.py)|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/07_stochastic.pdf)|
-|확률|제발 Stochastic Process가 뭔지 설명 좀 해주세요!|[click](https://youtu.be/HtJ-q8tc5qQ)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/07_stochastic.pdf)|
-|확률|Stochastic Gradient Descent에 왜 "Stochastic"라는 단어가 붙은 건가?|[click](https://youtu.be/DEQhCJ0nav4)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/07_stochastic.pdf)|
-|확률|Bayesian vs. Frequentist|[click](https://youtu.be/Kmw1pCsAqfM)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/08_01_Bayesian_vs_frequentist.pdf)|
-|확률|Bayes theorem_예제 풀이(당구공 굴리기)|[click](https://youtu.be/xdMor6957E0)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/08_02_Bayes_theorem_example_and_simulation.pdf)|
-|확률|Bayes theorem_예제 시뮬레이션(파이썬)|[click](https://youtu.be/7nyj0DvUluI)|[codes](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/08_02_Bayes_theorem_simulation.py)|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/08_02_Bayes_theorem_example_and_simulation.pdf)|
-|확률|Bayes theorem 딥러닝에 적용하여 해석하기|[click](https://youtu.be/YvWqPQhliaI)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/08_03_Bayes_theorem_applying_into_deeplearning.pdf)|
-|확률|Maximum Likelihood Estimation (MLE) 완벽히 파헤치기 (deep dive)!|[click](https://youtu.be/vzNRLY_hLlM)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/09_Maximum_Likelihood_Estimation_(MLE).pdf)|
-|확률|Maximum A Posterior (MAP) 완벽히 파헤치기 (deep dive)!|[click](https://youtu.be/H342QehYSqo)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/10_Maximum_A_Posterior_(MAP).pdf)|
-|확률|Bayesian Neural Networks 깊은 이해 (Bayesian Inference)|[click](https://youtu.be/126JfX_kJTU)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/11_bayesian_neural_networks.pdf)|
+|확률|01. Random Variables (확률변수)... 이게 뭔가요?|[click](https://youtu.be/iTxTGBOhzCA)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/01_random_variables.pdf)|
+|확률|02. Expected Value (기댓값)... 이게 뭔가요?|[click](https://youtu.be/nvHyIScyQxs)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/02.%20expected_value.pdf)|
+|확률|03. 딥러닝과 확률 분포의 관계는 무엇인가요?|[click](https://youtu.be/qpbIKg21mvI)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/03_probability_distribution_and_deeplearning.pdf)|
+|확률|04. 파라미터와 딥러닝|[click](https://youtu.be/PobNLp279-w)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/04_parameters_in_deep_learning.pdf)|
+|확률|05. odds, logit, sigmoid, and softmax 개념설명|[click](https://youtu.be/V0uyiu6X4Zs)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/05_odds_logit_sigmoid_and_softmax.pdf)|
+|확률|06. 샘플링 표현에 대한 이해와 몬테 카를로 근사|[click](https://youtu.be/nw_tVBCw0Z8)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/06_sampling_representation_and_monte_carlo_approximation.pdf)|
+|확률|07. Stochastic Approach (확률적 접근법)|[click](https://youtu.be/LBT41oKsHWg)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/07_stochastic.pdf)|
+|확률|08. Stochastic 실습 및 분석|[click](https://youtu.be/k6xog4ZNnT0)|[codes](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/07_stochastic.py)|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/07_stochastic.pdf)|
+|확률|09. 제발 Stochastic Process가 뭔지 설명 좀 해주세요!|[click](https://youtu.be/HtJ-q8tc5qQ)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/07_stochastic.pdf)|
+|확률|10. Stochastic Gradient Descent에 왜 "Stochastic"라는 단어가 붙은 건가?|[click](https://youtu.be/DEQhCJ0nav4)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/07_stochastic.pdf)|
+|확률|11. Bayesian vs. Frequentist|[click](https://youtu.be/Kmw1pCsAqfM)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/08_01_Bayesian_vs_frequentist.pdf)|
+|확률|12. Bayes theorem_예제 풀이(당구공 굴리기)|[click](https://youtu.be/xdMor6957E0)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/08_02_Bayes_theorem_example_and_simulation.pdf)|
+|확률|13. Bayes theorem_예제 시뮬레이션(파이썬)|[click](https://youtu.be/7nyj0DvUluI)|[codes](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/08_02_Bayes_theorem_simulation.py)|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/08_02_Bayes_theorem_example_and_simulation.pdf)|
+|확률|14. Bayes theorem 딥러닝에 적용하여 해석하기|[click](https://youtu.be/YvWqPQhliaI)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/08_03_Bayes_theorem_applying_into_deeplearning.pdf)|
+|확률|15. Maximum Likelihood Estimation (MLE) 완벽히 파헤치기 (deep dive)!|[click](https://youtu.be/vzNRLY_hLlM)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/09_Maximum_Likelihood_Estimation_(MLE).pdf)|
+|확률|16. Maximum A Posterior (MAP) 완벽히 파헤치기 (deep dive)!|[click](https://youtu.be/H342QehYSqo)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/10_Maximum_A_Posterior_(MAP).pdf)|
+|확률|17. Bayesian Neural Networks 깊은 이해 (Bayesian Inference)|[click](https://youtu.be/126JfX_kJTU)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/11_bayesian_neural_networks.pdf)|
 
 [맨위로 이동](#top)
 <hr>
