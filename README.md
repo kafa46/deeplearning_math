@@ -92,6 +92,6 @@
 
 |분야|주제|Youtube|Codes|PPT|
 |---|---|---|---|---|
-|집합|$R_{2,3}$ vs. $R^{2\times3}$ 차이가 도대체 뭐야?|[click](https://youtu.be/m7dSzu-G_Mk)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_set_theory/01_intepretation_of_number%20set.pdf)|
+|집합|$R_{2,3}$ vs. $R^{2\times3}$ 차이가 도대체 뭐야?|[click](https://youtu.be/m7dSzu-G_Mk)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/04_set_theory/01_intepretation_of_number_set.pdf)|
 
 [맨위로 이동](#top)
