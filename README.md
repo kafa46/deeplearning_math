@@ -1,4 +1,4 @@
-# 소프트웨어 꼰대 강의 - 딥러닝 수학
+# 소프트웨어 꼰대 강의 - 딥러닝 수학 <a id='top'></a>
 
 <p>
     안녕하세요? 소프트웨어 꼰대강의를 운영하고 있는 노기섭 교수입니다.
@@ -8,7 +8,15 @@
 
 궁금한 사항, 오류 등이 있으면 [kafa46@cju.ac.kr](mailto:kafa46@cju.ac.kr)로 연락주시면 감사하겠습니다.
 
-- 자료 목록 
+
+## 딥러닝 수학 시리즈 구성
+- [1장. 확률( Probability)](#prob)
+- [2장. 선형대수 (Linear Algebra)](#linear)
+- [3장. 미분 (Differentiation)](#diff)
+- [Bonus. 집합론 (곱집합)](#set)
+<hr>
+
+### Chapter 1. Probability <a id='prob'></a>
 
 |분야|주제|Youtube|Codes|PPT|
 |---|---|---|---|---|
@@ -29,6 +37,14 @@
 |확률|Maximum Likelihood Estimation (MLE) 완벽히 파헤치기 (deep dive)!|[click](https://youtu.be/vzNRLY_hLlM)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/09_Maximum_Likelihood_Estimation_(MLE).pdf)|
 |확률|Maximum A Posterior (MAP) 완벽히 파헤치기 (deep dive)!|[click](https://youtu.be/H342QehYSqo)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/10_Maximum_A_Posterior_(MAP).pdf)|
 |확률|Bayesian Neural Networks 깊은 이해 (Bayesian Inference)|[click](https://youtu.be/126JfX_kJTU)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/01_probability_theory/11_bayesian_neural_networks.pdf)|
+
+[맨위로 이동](#top)
+<hr>
+
+### Chapter 2. Linear Algebra <a id='linear'></a>
+
+|분야|주제|Youtube|Codes|PPT|
+|---|---|---|---|---|
 |선형대수|01. 딥러닝에서의 선형대수! 오리엔테이션 (동기부여)|[click](https://youtu.be/Si2QxZEz8Po)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/01_orientation_and_motivations.pdf)|
 |선형대수|02. Matrix(행렬) 역사, 정의,  표기법, 용어 정리|[click](https://youtu.be/ToWPEh1neCY)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/02_intro_definition_notation.pdf)|
 |선형대수|03. Matrix(행렬) 기본연산(행렬의 덧셈과 곱셈), 가우스-조던 소거법|[click](https://youtu.be/hj3PBuvW5TA)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/03_matrix_operation.pdf)|
@@ -49,4 +65,33 @@
 |선형대수|18. 행렬에서의 랭크 (rank in matrix)|[click](https://youtu.be/ORSP-Rd2NcU)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/18_rank_in_matrix.pdf)|
 |선형대수|19. 선형변환 요약, 정보 압축 및 팽창|[click](https://youtu.be/2vgpAgsqSEc)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/19_information_compression_expansion.pdf)|
 |선형대수|20. 선형대수를 마무리하며, 인사말 및 감사인사 (adjourning)|[click](https://youtu.be/3uDd-xaipoU)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/02_linear_algebra/20_adjourning.pdf)|
+
+[맨위로 이동](#top)
+
+<hr>
+
+### Chapter 3. Differentiantion <a id='diff'></a>
+
+|분야|주제|Youtube|Codes|PPT|
+|---|---|---|---|---|
+|미분|01. 미분 오리엔테이션|준비중|없음|준비중|
+|미분|02. 딥러닝은 어떻게 데이터로부터 지식을 배우는가?|준비중|없음|준비중|
+|미분|03. 미분의 원리 (기본 지식)|준비중|없음|준비중|
+|미분|04. 편미분의 개념 및 연산|준비중|없음|준비중|
+|미분|05. 경사하강 알고리즘의 개념, 해석, 학습|준비중|없음|준비중|
+|미분|06. 연쇄법칙 개념과 및 연산|준비중|없음|준비중|
+|미분|07. 선형시스템에서의 편미준|준비중|없음|준비중|
+|미분|08. 역전파 학습의 작동 방법|준비중|없음|준비중|
+|미분|09. 활성함수 간단 소개, 기울기 소실의 근본 원인과 대책|준비중|없음|준비중|
+|미분|10. 미분을 마무리하며, 감사인사 (adjourning)|준비중|없음|준비중|
+
+[맨위로 이동](#top)
+<hr>
+
+### Bonus. Number Set <a id='set'></a>
+
+|분야|주제|Youtube|Codes|PPT|
+|---|---|---|---|---|
 |집합|$R_{2,3}$ vs. $R^{2\times3}$ 차이가 도대체 뭐야?|[click](https://youtu.be/m7dSzu-G_Mk)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_set_theory/01_intepretation_of_number%20set.pdf)|
+
+[맨위로 이동](#top)
