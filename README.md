@@ -5,6 +5,7 @@
     이 저장소는 '딥러닝 수학'과 관련된 자료를 제공하고 있습니다. 딥러닝을 공부하다 보면 피해갈 수 없는 장벽을 만나게 됩니다. 바로 수학과 관련된 지식입니다. 개인적으로 딥러닝을 공부하면서 누군가 쉽게 풀어서 설명하는 자료가 있으면 좋겠다는 생각을 종종 했습니다. 제가 이해한 방식을 기반으로 딥러닝 관련된 수학 지식을 제공하고자 합니다.
 </p>
 
+꼰대 교수님 홈페이지: 바로가기 [(click me)](https://prof.acin.kr/)
 
 궁금한 사항, 오류 등이 있으면 [kafa46@cju.ac.kr](mailto:kafa46@cju.ac.kr)로 연락주시면 감사하겠습니다.
 
@@ -74,7 +75,7 @@
 
 |분야|주제|Youtube|Codes|PPT|
 |---|---|---|---|---|
-|미분|01. 미분 오리엔테이션|준비중|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_differentiation/01_orientation.pdf)|
+|미분|01. 미분 시리즈를 시작하며,<br>오리엔테이션 (Orientation)|[click](https://youtu.be/j1D1jY71Wjg)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_differentiation/01_orientation.pdf)|
 |미분|02. 딥러닝은 어떻게 데이터로부터 지식을 배우는가?|준비중|없음|준비중|
 |미분|03. 미분의 원리 (기본 지식)|준비중|없음|준비중|
 |미분|04. 편미분의 개념 및 연산|준비중|없음|준비중|
