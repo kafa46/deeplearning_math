@@ -73,10 +73,11 @@
 
 ### Chapter 3. Differentiantion <a id='diff'></a>
 
+
 |분야|주제|Youtube|Codes|PPT|
 |---|---|---|---|---|
 |미분|01. 미분 시리즈를 시작하며,<br>오리엔테이션 (Orientation)|[click](https://youtu.be/j1D1jY71Wjg)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_differentiation/01_orientation.pdf)|
-|미분|02. 딥러닝은 어떻게 데이터로부터 지식을 배우는가?|준비중|없음|준비중|
+|미분|02. 딥러닝은 어떻게 데이터로부터 지식을 배우는가?|[click](https://youtu.be/wHRAvJehL20)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_differentiation/02_learning_in_deeplearning.pdf)|
 |미분|03. 미분의 원리 (기본 지식)|준비중|없음|준비중|
 |미분|04. 편미분의 개념 및 연산|준비중|없음|준비중|
 |미분|05. 경사하강 알고리즘의 개념, 해석, 학습|준비중|없음|준비중|
