@@ -79,7 +79,7 @@
 |미분|01. 미분 시리즈를 시작하며,<br>오리엔테이션 (Orientation)|[click](https://youtu.be/j1D1jY71Wjg)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_differentiation/01_orientation.pdf)|
 |미분|02. 딥러닝은 어떻게 데이터로부터 지식을 배우는가?|[click](https://youtu.be/wHRAvJehL20)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_differentiation/02_learning_in_deeplearning.pdf)|
 |미분|03. 미분의 원리 - 한번은 짚고 넘어가야 할 내용|[click](https://youtu.be/C8yzd1UOEq4)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_differentiation/03_principal_of_differentiation.pdf)|
-|미분|04. 편미분의 개념 및 연산|준비중|없음|준비중|
+|미분|04. 딥러닝에서 편미분 개념과 연산|[click](https://youtu.be/_8chLG-JFDo)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_differentiation/04_partial_differentiation.pdf)|
 |미분|05. 경사하강 알고리즘의 개념, 해석, 학습|준비중|없음|준비중|
 |미분|06. 연쇄법칙 개념과 및 연산|준비중|없음|준비중|
 |미분|07. 선형시스템에서의 편미준|준비중|없음|준비중|
