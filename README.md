@@ -85,7 +85,7 @@
 |미분|07-01. 선형시스템에서의 편미분|[click](https://youtu.be/o3IeCWtHxG4)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_differentiation/07_matrix_differentiation.pdf)|
 |미분|07-02. 선형시스템에서의 편미분 (실습 with toy example)|[click](https://youtu.be/_cAIzjWQ3Bg)|[codes](https://github.com/kafa46/deeplearning_math/blob/master/03_differentiation/07_matrix_differentiation_excercise_toy_example.py)|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_differentiation/07_matrix_differentiation_excercise_slide.pdf)|
 |미분|08. 역전파 학습 (back-propagation) 및 Computation Graph|[click](https://youtu.be/T4Im-qIl0Xc)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_differentiation/08_back_propagation.pdf)|
-|미분|09. 활성함수 간단 소개, 기울기 소실의 근본 원인과 대책|준비중|없음|준비중|
+|미분|09. 활성함수 간단 소개, 기울기 소실의 근본 원인과 대책|[click](https://youtu.be/dYdHdoYVzxc)|없음|[link](https://youtu.be/T4Im-qIl0Xc)|없음|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_differentiation/09_gradient_vanishing.pdf)|
 |미분|10. 딥러닝 수학 시리즈 전체를 마무리하며, 감사인사 (adjourning)|준비중|없음|준비중|
 
 [맨위로 이동](#top)
