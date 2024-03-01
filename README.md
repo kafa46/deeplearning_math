@@ -14,6 +14,7 @@
 - [1장. Probability (확률)](#prob)
 - [2장. Linear Algebra (선형대수)](#linear)
 - [3장. Differentiation (미분)](#diff)
+- [4장. Information Theory (정보이론)](#info)
 - [Bonus. 집합론 (곱집합)](#set)
 <hr>
 
@@ -87,6 +88,25 @@
 |미분|08. 역전파 학습 (back-propagation) 및 Computation Graph|[click](https://youtu.be/T4Im-qIl0Xc)|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_differentiation/08_back_propagation.pdf)|없음|
 |미분|09. 활성함수 간단 소개, 기울기 소실의 근본 원인과 대책|[click](https://youtu.be/dYdHdoYVzxc)|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_differentiation/09_gradient_vanishing.pdf)|없음|
 |미분|10. 딥러닝 수학 시리즈 전체를 마무리하며, 감사인사 (adjourning)|[click](https://youtu.be/KX8C9EU4lGc)|[link](https://github.com/kafa46/deeplearning_math/blob/master/03_differentiation/10_adjourning.pdf)|없음|
+
+
+[맨위로 이동](#top)
+
+<hr>
+
+### Chapter 4. Information Theory (정보이론)<a id='info'></a>
+
+
+|분야|주제|Youtube|PPT|Codes|
+|---|---|---|---|---|
+|정보이론|01. 오리엔테이션 - 딥러닝과 정보이론의 관계, 학습목표, 과정 소개 등|[click](https://youtu.be/3_6O1ErlCJs)|[link](https://github.com/kafa46/deeplearning_math/blob/master/05_information_theory/01_orientation.pdf)|없음|
+|정보이론|02. 정보(information)이란 무엇인가? 개념과 정의|[준비중]()|[준비중]()|없음|
+|정보이론|03. 정보 엔트로피(entropy) 개념, 표기, 연산|[준비중]()|[준비중]()|없음|
+|정보이론|04. 딥러닝에서의 엔트로피|[준비중]()|[준비중]()|없음|
+|정보이론|05. 엔트로피 손실 (Cross Entropy)|[준비중]()|[준비중]()|없음|
+|정보이론|06. KL(Kullback-Leibler) Divergence|[준비중]()|[준비중]()|없음|
+|정보이론|07. 요약, 마무리, 인사말|[준비중]()|[준비중]()|없음|
+
 
 [맨위로 이동](#top)
 <hr>
