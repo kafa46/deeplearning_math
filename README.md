@@ -102,6 +102,7 @@
 |정보이론|01. 오리엔테이션 - 딥러닝과 정보이론의 관계, 학습목표, 과정 소개 등|[click](https://youtu.be/3_6O1ErlCJs)|[link](https://github.com/kafa46/deeplearning_math/blob/master/05_information_theory/01_orientation.pdf)|없음|
 |정보이론|02. 정보이론에서 '정보(information)'이란 무엇일까?|[click](https://youtu.be/03usOd5Uwa0)|[link](https://github.com/kafa46/deeplearning_math/blob/master/05_information_theory/02_information.pdf)|없음|
 |정보이론|[정보이론]_03-1. 정보 엔트로피(entropy) 개념, 표기, 연산 - 이론|[click](https://youtu.be/5ikry4jIDkA)|[link](https://github.com/kafa46/deeplearning_math/blob/master/05_information_theory/03_1_information_entropy_theory.pdf)|없음|
+|정보이론|[정보이론]_03-2. 정보 엔트로피(entropy) 개념, 표기, 연산 - 실습|[click](https://youtu.be/Gz1mKx5L7K8)|[link](https://github.com/kafa46/deeplearning_math/blob/master/05_information_theory/03_2_information_entropy_practice.pdf)|[codes](https://github.com/kafa46/deeplearning_math/blob/master/05_information_theory/rolling_dices.py)|
 |정보이론|04. 딥러닝에서의 엔트로피|[준비중]()|[준비중]()|없음|
 |정보이론|05. 엔트로피 손실 (Cross Entropy)|[준비중]()|[준비중]()|없음|
 |정보이론|06. KL(Kullback-Leibler) Divergence|[준비중]()|[준비중]()|없음|
