@@ -107,7 +107,7 @@
 |정보이론|05-1. 엔트로피 손실 (Binary Cross Entropy, Cross Entropy) - Deep dive|[click](https://youtu.be/t6WIGyz0tD8)|[link](https://github.com/kafa46/deeplearning_math/blob/master/05_information_theory/05_entropy_loss.pdf)|없음|
 |정보이론|05-2. 엔트로피 손실(Cross Entropy Loss) 실습|[click](https://youtu.be/HJBsq19pcbY)|[없음]()|[codes](https://github.com/kafa46/deeplearning_math/blob/master/05_information_theory/entropy_loss.py)|
 |정보이론|06. KL 발산 (Kullback-Leibler Divergence) in Deeplearning|[click](https://youtu.be/bE9dSiW6_h4)|[link](https://github.com/kafa46/deeplearning_math/blob/master/05_information_theory/06_KL_divergence.pdf)|없음|
-|정보이론|07. 정보 이론 시리즈를 마무리 하며 (요약, 정리, 인사말씀)|[click](https://youtu.be/6pRJnQTCoYE)|[link](https://github.com/kafa46/deeplearning_math/blob/master/05_information_theory/.07_adjourning.pdf)|없음|
+|정보이론|07. 정보 이론 시리즈를 마무리 하며 (요약, 정리, 인사말씀)|[click](https://youtu.be/6pRJnQTCoYE)|[link](https://github.com/kafa46/deeplearning_math/blob/master/05_information_theory/07_adjourning.pdf)|없음|
 
 
 [맨위로 이동](#top)
